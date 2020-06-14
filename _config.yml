@@ -1,4 +1,4 @@
-remote_theme: narative/gatsby-theme-novela
+remote_theme: patdryburgh/hitchens
 
 plugins:
   - jekyll-paginate
