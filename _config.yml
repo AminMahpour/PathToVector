@@ -1,5 +1,6 @@
 remote_theme: patdryburgh/hitchens
 url: https://aminmahpour.github.io/
+description: Hows and Whys
 plugins:
   - jekyll-paginate
 
