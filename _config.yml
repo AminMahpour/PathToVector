@@ -1,5 +1,5 @@
 remote_theme: patdryburgh/hitchens
-
+url: https://aminmahpour.github.io/PathToVector/
 plugins:
   - jekyll-paginate
 
